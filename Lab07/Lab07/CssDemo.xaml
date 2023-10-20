@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab07.CssDemo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label StyleClass="textolabel1" Text="texto con estilos css" />
+            <Label StyleClass="textolabel2" Text="otro texto con estilos css" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
